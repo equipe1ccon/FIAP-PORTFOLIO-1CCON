@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-fiap.png" alt="FIAP" width="200">
+</p>
+
 # Ciência da Computação — FIAP
 **Graduação ON | Portfólio Acadêmico**
 
